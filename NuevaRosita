@@ -33,9 +33,6 @@ http://roedor.xyz/regiomx20x/tp.php?c=223&p=3&k=srregio&f=.m3u8
 #EXTINF:-1, VH1 HD
 http://roedor.xyz/regiomx20x/tp.php?c=334&p=3&k=srregio&f=.m3u8  
 
-#EXTINF:-1,BANDAMAX
-https://speedmindec.tecltda.club/speedmindec005005/17_.m3u8
-
 #EXTINF:-1,DIRECTV PLUS
 https://speedmindec.tecltda.club/speedmindec005005/41_.m3u8
 
@@ -104,9 +101,6 @@ https://speedmindec.tecltda.club/speedmindec005005/31_.m3u8
 
 #EXTINF:-1, FXM
 http://roedor.xyz/regiomx20x/tp.php?c=138&p=3&k=srregio&f=.m3u8  
-
-#EXTINF:-1, FXM SD 
-http://roedor.xyz/regiomx20x/tp.php?c=332&p=3&k=srregio&f=.m3u8
 
 #EXTINF:-1, CINEMAX 
 http://roedor.xyz/regiomx20x/tp.php?c=158&p=3&k=srregio&f=.m3u8
@@ -210,9 +204,6 @@ http://roedor.xyz/regiomx20x/tp.php?c=17&p=3&k=srregio&f=.m3u8
 #EXTINF:-1, CANAL 5
 http://roedor.xyz/regiomx20x/tp.php?c=20&p=3&k=srregio&f=.m3u8 
 
-#EXTINF:-1, AZTECA 7
-http://roedor.xyz/regiomx20x/tp.php?c=21&p=3&k=srregio&f=.m3u8
-
 #EXTINF:-1, AZTECA UNO
 http://roedor.xyz/regiomx20x/tp.php?c=27&p=3&k=srregio&f=.m3u8 
 
@@ -220,10 +211,7 @@ http://roedor.xyz/regiomx20x/tp.php?c=27&p=3&k=srregio&f=.m3u8
 http://roedor.xyz/regiomx20x/tp.php?c=32&p=3&k=srregio&f=.m3u8 
 
 #EXTINF:-1, AZTECA 7 HD 
-http://roedor.xyz/regiomx20x/tp.php?c=317&p=3&k=srregio&f=.m3u8  
-
-#EXTINF:-1, AZTECA 7 HD (2)
-http://roedor.xyz/regiomx20x/tp.php?c=322&p=3&k=srregio&f=.m3u8  
+http://roedor.xyz/regiomx20x/tp.php?c=317&p=3&k=srregio&f=.m3u8    
 
 #EXTINF:-1, IMAGEN TV  
 http://roedor.xyz/regiomx20x/tp.php?c=2298&p=3&k=srregio&f=.m3u8  
@@ -305,9 +293,6 @@ https://speedmindec.tecltda.club/speedmindec005005/56_.m3u8
 
 #EXTINF:-1,NICK 2
 https://speedmindec.tecltda.club/speedmindec005005/55_.m3u8
-
-#EXTINF:-1,NICK JR
-https://speedmindec.tecltda.club/speedmindec005005/16_.m3u8
 
 #EXTINF:-1,NICK TOONS
 https://speedmindec.tecltda.club/speedmindec005005/18_.m3u8
