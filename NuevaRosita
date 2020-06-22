@@ -1,52 +1,55 @@
-#EXTM3U
+##EXTM3U
 
 #EXTINF:-1,24/7 DRAGON BALL
 https://speedmindec.tecltda.club/speedmindec005005/23_.m3u8
 
-#EXTINF:-1,24/7 FUTURAMA
-https://speedmindec.tecltda.club/speedmindec005005/22_.m3u8
+EXTINF:-1, MTV LIVE
+http://roedor.xyz/regiomx20x/tp.php?c=211&p=3&k=srregio&f=.m3u8  
 
-#EXTINF:-1,24/7 SIMPSON
-https://speedmindec.tecltda.club/speedmindec005005/21_.m3u8
+#EXTINF:-1, MTV
+http://roedor.xyz/regiomx20x/tp.php?c=212&p=3&k=srregio&f=.m3u8  
 
-#EXTINF:-1,AXN
-https://speedmindec.tecltda.club/speedmindec005005/31_.m3u8
+#EXTINF:-1, MTV HITS SD
+http://roedor.xyz/regiomx20x/tp.php?c=213&p=3&k=srregio&f=.m3u8  
+
+#EXTINF:-1, VH1 CLASSIC SD
+http://roedor.xyz/regiomx20x/tp.php?c=214&p=3&k=srregio&f=.m3u8 
+
+#EXTINF:-1, VH1 SD 
+http://roedor.xyz/regiomx20x/tp.php?c=217&p=3&k=srregio&f=.m3u8  
+
+#EXTINF:-1, TELEHIT URBANO SD
+http://roedor.xyz/regiomx20x/tp.php?c=218&p=3&k=srregio&f=.m3u8 
+
+#EXTINF:-1, TELEHIT +
+http://roedor.xyz/regiomx20x/tp.php?c=220&p=3&k=srregio&f=.m3u8  
+
+#EXTINF:-1, BANDAMAX SD
+http://roedor.xyz/regiomx20x/tp.php?c=221&p=3&k=srregio&f=.m3u8  
+
+#EXTINF:-1, AZ CLIC
+http://roedor.xyz/regiomx20x/tp.php?c=223&p=3&k=srregio&f=.m3u8 
+
+#EXTINF:-1, VH1 HD
+http://roedor.xyz/regiomx20x/tp.php?c=334&p=3&k=srregio&f=.m3u8  
 
 #EXTINF:-1,BANDAMAX
 https://speedmindec.tecltda.club/speedmindec005005/17_.m3u8
 
-#EXTINF:-1,BEIN SPORTS
-https://speedmindec.tecltda.club/speedmindec005005/71_.m3u8
-
-#EXTINF:-1,CARTOON NETWORK
-https://speedmindec.tecltda.club/speedmindec005005/25_.m3u8
-
-#EXTINF:-1,CDF
-https://speedmindec.tecltda.club/speedmindec005005/20_.m3u8
-
-#EXTINF:-1,CINECANAL
-https://speedmindec.tecltda.club/speedmindec005005/59_.m3u8
-
-#EXTINF:-1,CNN
-https://speedmindec.tecltda.club/speedmindec005005/12_.m3u8
-
 #EXTINF:-1,DIRECTV PLUS
 https://speedmindec.tecltda.club/speedmindec005005/41_.m3u8
-
-#EXTINF:-1,DIRECTV SPORT
-https://speedmindec.tecltda.club/speedmindec005005/43_.m3u8
-
-#EXTINF:-1,DIRECTV SPORTS 2
-https://speedmindec.tecltda.club/speedmindec005005/42_.m3u8
 
 #EXTINF:-1,DISCOVERY CHANNEL
 https://speedmindec.tecltda.club/speedmindec005005/63_.m3u8
 
+#EXTINF:-1,HISTORY
+https://speedmindec.tecltda.club/speedmindec005005/49_.m3u8
+
+#EXTINF:-1,INVESTIGATION DISCOVERY
+https://speedmindec.tecltda.club/speedmindec005005/28_.m3u8
+
 #EXTINF:-1,DISCOVERY H&H HD
 https://speedmindec.tecltda.club/speedmindec005005/62_.m3u8
-
-#EXTINF:-1,DISCOVERY KIDS
-https://speedmindec.tecltda.club/speedmindec005005/24_.m3u8
 
 #EXTINF:-1,DISCOVERY SCIENCE HD
 https://speedmindec.tecltda.club/speedmindec005005/61_.m3u8
@@ -60,32 +63,59 @@ https://speedmindec.tecltda.club/speedmindec005005/60_.m3u8
 #EXTINF:-1,DISCOVERY WORD
 https://speedmindec.tecltda.club/speedmindec005005/26_.m3u8
 
-#EXTINF:-1,DISNEY CHANNEL
-https://speedmindec.tecltda.club/speedmindec005005/58_.m3u8
+#EXTINF:-1,NAT GEO WILD
+https://speedmindec.tecltda.club/speedmindec005005/29_.m3u8
 
-#EXTINF:-1,DISNEY JR
-https://speedmindec.tecltda.club/speedmindec005005/57_.m3u8
+#EXTINF:-1,NATGEO
+https://speedmindec.tecltda.club/speedmindec005005/30_.m3u8
 
 #EXTINF:-1,DISTRITO COMEDIA
 https://speedmindec.tecltda.club/speedmindec005005/36_.m3u8
 
-#EXTINF:-1,ESPN
-https://speedmindec.tecltda.club/speedmindec005005/73_.m3u8
+#EXTINF:-1,CINECANAL
+https://speedmindec.tecltda.club/speedmindec005005/59_.m3u8
 
-#EXTINF:-1,ESPN + HD
-https://speedmindec.tecltda.club/speedmindec005005/48_.m3u8
+#EXTINF:-1, A3CINE 
+http://roedor.xyz/regiomx20x/tp.php?c=3112&p=3&k=srregio&f=.m3u8 
 
-#EXTINF:-1,ESPN 3
-https://speedmindec.tecltda.club/speedmindec005005/72_.m3u8
+#EXTINF:-1, TBS SD  
+http://roedor.xyz/regiomx20x/tp.php?c=81&p=3&k=srregio&f=.m3u8 
 
-#EXTINF:-1,ESTRELLAS
-https://speedmindec.tecltda.club/speedmindec005005/34_.m3u8
+#EXTINF:-1, DE PELICULA + 
+http://roedor.xyz/regiomx20x/tp.php?c=121&p=3&k=srregio&f=.m3u8  
 
-#EXTINF:-1,EURO SPORTS 1
-https://speedmindec.tecltda.club/speedmindec005005/8_.m3u8
+#EXTINF:-1, GOLDEN +
+http://roedor.xyz/regiomx20x/tp.php?c=122&p=3&k=srregio&f=.m3u8  
 
-#EXTINF:-1,EURO SPORTS 2
-https://speedmindec.tecltda.club/speedmindec005005/9_.m3u8
+#EXTINF:-1, GOLDEN
+http://roedor.xyz/regiomx20x/tp.php?c=123&p=3&k=srregio&f=.m3u8  
+
+#EXTINF:-1, GOLDEN EDGE
+http://roedor.xyz/regiomx20x/tp.php?c=124&p=3&k=srregio&f=.m3u8 
+
+#EXTINF:-1, AMC 
+http://roedor.xyz/regiomx20x/tp.php?c=131&p=3&k=srregio&f=.m3u8  
+
+#EXTINF:-1, STUDIO UNIVERSAL
+http://roedor.xyz/regiomx20x/tp.php?c=132&p=3&k=srregio&f=.m3u8 
+
+#EXTINF:-1,AXN
+https://speedmindec.tecltda.club/speedmindec005005/31_.m3u8
+
+#EXTINF:-1, FXM
+http://roedor.xyz/regiomx20x/tp.php?c=138&p=3&k=srregio&f=.m3u8  
+
+#EXTINF:-1, FXM SD 
+http://roedor.xyz/regiomx20x/tp.php?c=332&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1, CINEMAX 
+http://roedor.xyz/regiomx20x/tp.php?c=158&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1, FOX CLASSICS SD
+http://roedor.xyz/regiomx20x/tp.php?c=1732&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1, AZ CINEMA 
+http://roedor.xyz/regiomx20x/tp.php?c=1787&p=3&k=srregio&f=.m3u8 
 
 #EXTINF:-1,FOX
 https://speedmindec.tecltda.club/speedmindec005005/45_.m3u8
@@ -105,17 +135,11 @@ https://speedmindec.tecltda.club/speedmindec005005/33_.m3u8
 #EXTINF:-1,FOX MOVIE
 https://speedmindec.tecltda.club/speedmindec005005/40_.m3u8
 
-#EXTINF:-1,FOX SPORTS
-https://speedmindec.tecltda.club/speedmindec005005/74_.m3u8
+#EXTINF:-1,SPACE
+https://speedmindec.tecltda.club/speedmindec005005/39_.m3u8
 
-#EXTINF:-1,FOX SPORTS 2 MX
-https://speedmindec.tecltda.club/speedmindec005005/47_.m3u8
-
-#EXTINF:-1,FOX SPORTS 3 MX
-https://speedmindec.tecltda.club/speedmindec005005/46_.m3u8
-
-#EXTINF:-1,GOLF CHANNEL
-https://speedmindec.tecltda.club/speedmindec005005/10_.m3u8
+#EXTINF:-1,SYFY
+https://speedmindec.tecltda.club/speedmindec005005/7_.m3u8
 
 #EXTINF:-1,H2
 https://speedmindec.tecltda.club/speedmindec005005/15_.m3u8
@@ -132,53 +156,17 @@ https://speedmindec.tecltda.club/speedmindec005005/65_.m3u8
 #EXTINF:-1,HBO PLUS
 https://speedmindec.tecltda.club/speedmindec005005/64_.m3u8
 
-#EXTINF:-1,HISTORY
-https://speedmindec.tecltda.club/speedmindec005005/49_.m3u8
-
-#EXTINF:-1,INVESTIGATION DISCOVERY
-https://speedmindec.tecltda.club/speedmindec005005/28_.m3u8
-
 #EXTINF:-1,MOVISTAR ESTRENOS
 https://speedmindec.tecltda.club/speedmindec005005/4_.m3u8
 
-#EXTINF:-1,MOVISTAR LIGA DE CAMPEONES
-https://speedmindec.tecltda.club/speedmindec005005/5_.m3u8
-
 #EXTINF:-1,MTV HD
 https://speedmindec.tecltda.club/speedmindec005005/54_.m3u8
-
-#EXTINF:-1,NAT GEO WILD
-https://speedmindec.tecltda.club/speedmindec005005/29_.m3u8
-
-#EXTINF:-1,NATGEO
-https://speedmindec.tecltda.club/speedmindec005005/30_.m3u8
-
-#EXTINF:-1,NICK
-https://speedmindec.tecltda.club/speedmindec005005/56_.m3u8
-
-#EXTINF:-1,NICK 2
-https://speedmindec.tecltda.club/speedmindec005005/55_.m3u8
-
-#EXTINF:-1,NICK JR
-https://speedmindec.tecltda.club/speedmindec005005/16_.m3u8
-
-#EXTINF:-1,NICK TOONS
-https://speedmindec.tecltda.club/speedmindec005005/18_.m3u8
-
-#EXTINF:-1,REAL MADRID
-https://speedmindec.tecltda.club/speedmindec005005/6_.m3u8
 
 #EXTINF:-1,SKY F1
 https://speedmindec.tecltda.club/speedmindec005005/11_.m3u8
 
 #EXTINF:-1,SONY
 https://speedmindec.tecltda.club/speedmindec005005/32_.m3u8
-
-#EXTINF:-1,SPACE
-https://speedmindec.tecltda.club/speedmindec005005/39_.m3u8
-
-#EXTINF:-1,SYFY
-https://speedmindec.tecltda.club/speedmindec005005/7_.m3u8
 
 #EXTINF:-1,TCM
 https://speedmindec.tecltda.club/speedmindec005005/19_.m3u8
@@ -198,9 +186,6 @@ https://speedmindec.tecltda.club/speedmindec005005/38_.m3u8
 #EXTINF:-1,TNT SERIE
 https://speedmindec.tecltda.club/speedmindec005005/37_.m3u8
 
-#EXTINF:-1,TNT SPORT
-https://speedmindec.tecltda.club/speedmindec005005/50_.m3u8
-
 #EXTINF:-1,TRU TV
 https://speedmindec.tecltda.club/speedmindec005005/13_.m3u8
 
@@ -209,9 +194,243 @@ https://speedmindec.tecltda.club/speedmindec005005/14_.m3u8
 
 #EXTINF:-1,UNIVISION
 https://speedmindec.tecltda.club/speedmindec005005/35_.m3u8
++
+#EXTINF:-1,ESTRELLAS
+https://speedmindec.tecltda.club/speedmindec005005/34_.m3u8
+
+#EXTINF:-1, AZTECA UNO HD
+http://roedor.xyz/regiomx20x/tp.php?c=7&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1, AZ CLIC HD
+http://roedor.xyz/regiomx20x/tp.php?c=11&p=3&k=srregio&f=.m3u8 
+
+#EXTINF:-1, LAS ESTRELLAS
+http://roedor.xyz/regiomx20x/tp.php?c=17&p=3&k=srregio&f=.m3u8 
+
+#EXTINF:-1, CANAL 5
+http://roedor.xyz/regiomx20x/tp.php?c=20&p=3&k=srregio&f=.m3u8 
+
+#EXTINF:-1, AZTECA 7
+http://roedor.xyz/regiomx20x/tp.php?c=21&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1, AZTECA UNO
+http://roedor.xyz/regiomx20x/tp.php?c=27&p=3&k=srregio&f=.m3u8 
+
+#EXTINF:-1, TELEFORMULA SD
+http://roedor.xyz/regiomx20x/tp.php?c=32&p=3&k=srregio&f=.m3u8 
+
+#EXTINF:-1, AZTECA 7 HD 
+http://roedor.xyz/regiomx20x/tp.php?c=317&p=3&k=srregio&f=.m3u8  
+
+#EXTINF:-1, AZTECA 7 HD (2)
+http://roedor.xyz/regiomx20x/tp.php?c=322&p=3&k=srregio&f=.m3u8  
+
+#EXTINF:-1, IMAGEN TV  
+http://roedor.xyz/regiomx20x/tp.php?c=2298&p=3&k=srregio&f=.m3u8  
+
+#EXTINF:-1, MULTIMEDIOS MTY
+http://roedor.xyz/regiomx20x/tp.php?c=2305&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1, NU9VE HD
+http://roedor.xyz/regiomx20x/tp.php?c=1783&p=3&k=srregio&f=.m3u8  
+
+#EXTINF:-1, LAS ESTRELLAS HD
+http://roedor.xyz/regiomx20x/tp.php?c=1784&p=3&k=srregio&f=.m3u8  
+
+#EXTINF:-1, CANAL 5 HD (2)
+http://roedor.xyz/regiomx20x/tp.php?c=1785&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1, ONCE HD 
+http://roedor.xyz/regiomx20x/tp.php?c=1942&p=3&k=srregio&f=.m3u8 
+
+#EXTINF:-1, TVC
+http://roedor.xyz/regiomx20x/tp.php?c=2156&p=3&k=srregio&f=.m3u8 
+
+#EXTINF:-1, TOONCAST
+http://roedor.xyz/regiomx20x/tp.php?c=108&p=3&k=srregio&f=.m3u8  
+
+#EXTINF:-1, DISCOVERY KIDS
+http://roedor.xyz/regiomx20x/tp.php?c=109&p=3&k=srregio&f=.m3u8  
+
+#EXTINF:-1, NICK
+http://roedor.xyz/regiomx20x/tp.php?c=110&p=3&k=srregio&f=.m3u8  
+
+#EXTINF:-1, DISNEY XD
+http://roedor.xyz/regiomx20x/tp.php?c=111&p=3&k=srregio&f=.m3u8  
+
+#EXTINF:-1, CARTOON NETWORK
+http://roedor.xyz/regiomx20x/tp.php?c=112&p=3&k=srregio&f=.m3u8  
+
+#EXTINF:-1, DISNEY CHANNEL
+http://roedor.xyz/regiomx20x/tp.php?c=113&p=3&k=srregio&f=.m3u8  
+
+#EXTINF:-1, BOOMERANG
+http://roedor.xyz/regiomx20x/tp.php?c=115&p=3&k=srregio&f=.m3u8 
+
+#EXTINF:-1, BABY TV 
+http://roedor.xyz/regiomx20x/tp.php?c=116&p=3&k=srregio&f=.m3u8  
+
+#EXTINF:-1, NICK JR
+http://roedor.xyz/regiomx20x/tp.php?c=117&p=3&k=srregio&f=.m3u8  
+
+#EXTINF:-1, DISNEY JR
+http://roedor.xyz/regiomx20x/tp.php?c=118&p=3&k=srregio&f=.m3u8 
+
+#EXTINF:-1, NICKTOONS SD 
+http://roedor.xyz/regiomx20x/tp.php?c=1708&p=3&k=srregio&f=.m3u8  
+
+#EXTINF:-1, BABY FIRST
+http://roedor.xyz/regiomx20x/tp.php?c=1984&p=3&k=srregio&f=.m3u8  
+
+#EXTINF:-1, NICK 2  
+http://roedor.xyz/regiomx20x/tp.php?c=2147&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1, NAT GEO KIDS  
+http://roedor.xyz/regiomx20x/tp.php?c=2373&p=3&k=srregio&f=.m3u8 
+
+#EXTINF:-1, BIT ME  
+http://roedor.xyz/regiomx20x/tp.php?c=2591&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1,CARTOON NETWORK
+https://speedmindec.tecltda.club/speedmindec005005/25_.m3u8
+
+#EXTINF:-1,DISCOVERY KIDS
+https://speedmindec.tecltda.club/speedmindec005005/24_.m3u8
+
+#EXTINF:-1,DISNEY JR
+https://speedmindec.tecltda.club/speedmindec005005/57_.m3u8
+
+#EXTINF:-1,NICK
+https://speedmindec.tecltda.club/speedmindec005005/56_.m3u8
+
+#EXTINF:-1,NICK 2
+https://speedmindec.tecltda.club/speedmindec005005/55_.m3u8
+
+#EXTINF:-1,NICK JR
+https://speedmindec.tecltda.club/speedmindec005005/16_.m3u8
+
+#EXTINF:-1,NICK TOONS
+https://speedmindec.tecltda.club/speedmindec005005/18_.m3u8
+
+#EXTINF:-1,DISNEY CHANNEL
+https://speedmindec.tecltda.club/speedmindec005005/58_.m3u8
+
+#EXTINF:-1,FOX SPORTS
+https://speedmindec.tecltda.club/speedmindec005005/74_.m3u8
+
+#EXTINF:-1,FOX SPORTS 2 MX
+https://speedmindec.tecltda.club/speedmindec005005/47_.m3u8
+
+#EXTINF:-1,FOX SPORTS 3 MX
+https://speedmindec.tecltda.club/speedmindec005005/46_.m3u8
+
+#EXTINF:-1,GOLF CHANNEL
+https://speedmindec.tecltda.club/speedmindec005005/10_.m3u8
 
 #EXTINF:-1,WIN SPORTS
 https://speedmindec.tecltda.club/speedmindec005005/44_.m3u8
 
 #EXTINF:-1,WIN SPORTS+
 https://speedmindec.tecltda.club/speedmindec005005/1_.m3u8
+
+#EXTINF:-1,BEIN SPORTS
+https://speedmindec.tecltda.club/speedmindec005005/71_.m3u8
+
+#EXTINF:-1,DIRECTV SPORT
+https://speedmindec.tecltda.club/speedmindec005005/43_.m3u8
+
+#EXTINF:-1,DIRECTV SPORTS 2
+https://speedmindec.tecltda.club/speedmindec005005/42_.m3u8
+
+#EXTINF:-1,ESPN
+https://speedmindec.tecltda.club/speedmindec005005/73_.m3u8
+
+#EXTINF:-1,ESPN + HD
+https://speedmindec.tecltda.club/speedmindec005005/48_.m3u8
+
+#EXTINF:-1,ESPN 3
+https://speedmindec.tecltda.club/speedmindec005005/72_.m3u8
+
+#EXTINF:-1,MOVISTAR LIGA DE CAMPEONES
+https://speedmindec.tecltda.club/speedmindec005005/5_.m3u8
+
+#EXTINF:-1,EURO SPORTS 1
+https://speedmindec.tecltda.club/speedmindec005005/8_.m3u8
+
+#EXTINF:-1,EURO SPORTS 2
+https://speedmindec.tecltda.club/speedmindec005005/9_.m3u8
+
+#EXTINF:-1,TNT SPORT
+https://speedmindec.tecltda.club/speedmindec005005/50_.m3u8
+
+#EXTINF:-1,CNN
+https://speedmindec.tecltda.club/speedmindec005005/12_.m3u8
+
+#EXTINF:-1, FOROTV HD
+http://roedor.xyz/regiomx20x/tp.php?c=4&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1, FOROTV SD
+http://roedor.xyz/regiomx20x/tp.php?c=19&p=3&k=srregio&f=.m3u8 
+
+#EXTINF:-1, ADN40
+http://roedor.xyz/regiomx20x/tp.php?c=40&p=3&k=srregio&f=.m3u8 
+
+#EXTINF:-1, ADN 40 HD
+http://roedor.xyz/regiomx20x/tp.php?c=184&p=3&k=srregio&f=.m3u8  
+
+#EXTINF:-1, CNN
+http://roedor.xyz/regiomx20x/tp.php?c=185&p=3&k=srregio&f=.m3u8  
+
+#EXTINF:-1, CNN SD
+http://roedor.xyz/regiomx20x/tp.php?c=186&p=3&k=srregio&f=.m3u8  
+
+#EXTINF:-1, CNN Ñ SD
+http://roedor.xyz/regiomx20x/tp.php?c=187&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1, WOBI 
+http://roedor.xyz/regiomx20x/tp.php?c=102&p=3&k=srregio&f=.m3u8 
+
+#EXTINF:-1, FOXN EWS
+http://roedor.xyz/regiomx20x/tp.php?c=188&p=3&k=srregio&f=.m3u8  
+
+#EXTINF:-1, BLOOMBERG 
+http://roedor.xyz/regiomx20x/tp.php?c=190&p=3&k=srregio&f=.m3u8  
+
+#EXTINF:-1, BBC SD
+http://roedor.xyz/regiomx20x/tp.php?c=191&p=3&k=srregio&f=.m3u8 
+
+#EXTINF:-1, AL JAAZERA 
+http://roedor.xyz/regiomx20x/tp.php?c=192&p=3&k=srregio&f=.m3u8  
+
+#EXTINF:-1, NTN 24
+http://roedor.xyz/regiomx20x/tp.php?c=194&p=3&k=srregio&f=.m3u8  
+
+#EXTINF:-1, JUSTICIA TV 
+http://roedor.xyz/regiomx20x/tp.php?c=196&p=3&k=srregio&f=.m3u8 
+
+#EXTINF:-1, HLN
+http://roedor.xyz/regiomx20x/tp.php?c=197&p=3&k=srregio&f=.m3u8 
+
+#EXTINF:-1, DW 
+http://roedor.xyz/regiomx20x/tp.php?c=203&p=3&k=srregio&f=.m3u8  
+
+#EXTINF:-1, RT
+http://roedor.xyz/regiomx20x/tp.php?c=999&p=3&k=srregio&f=.m3u8  
+
+#EXTINF:-1, MILENIO HD
+http://roedor.xyz/regiomx20x/tp.php?c=1250&p=3&k=srregio&f=.m3u8  
+
+#EXTINF:-1, MILENIO SD 
+http://roedor.xyz/regiomx20x/tp.php?c=1252&p=3&k=srregio&f=.m3u8  
+
+}#EXTINF:-1, EXCELSIOR TV
+http://roedor.xyz/regiomx20x/tp.php?c=1449&p=3&k=srregio&f=.m3u8  
+
+#EXTINF:-1, EL FINANCIERO HD 
+http://roedor.xyz/regiomx20x/tp.php?c=1649&p=3&k=srregio&f=.m3u8  
+
+#EXTINF:-1, RT ESPAÑOL
+http://roedor.xyz/regiomx20x/tp.php?c=2091&p=3&k=srregio&f=.m3u8 
+
+#EXTINF:-1, FRANCE 24
+http://roedor.xyz/regiomx20x/tp.php?c=2402&p=3&k=srregio&f=.m3u8  
