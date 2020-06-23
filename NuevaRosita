@@ -27,9 +27,6 @@ http://roedor.xyz/regiomx20x/tp.php?c=220&p=3&k=srregio&f=.m3u8
 #EXTINF:-1, BANDAMAX SD
 http://roedor.xyz/regiomx20x/tp.php?c=221&p=3&k=srregio&f=.m3u8  
 
-#EXTINF:-1, AZ CLIC
-http://roedor.xyz/regiomx20x/tp.php?c=223&p=3&k=srregio&f=.m3u8 
-
 #EXTINF:-1, VH1 HD
 http://roedor.xyz/regiomx20x/tp.php?c=334&p=3&k=srregio&f=.m3u8  
 
@@ -188,9 +185,6 @@ https://speedmindec.tecltda.club/speedmindec005005/14_.m3u8
 
 #EXTINF:-1,UNIVISION
 https://speedmindec.tecltda.club/speedmindec005005/35_.m3u8
-+
-#EXTINF:-1,ESTRELLAS
-https://speedmindec.tecltda.club/speedmindec005005/34_.m3u8
 
 #EXTINF:-1, AZTECA UNO HD
 http://roedor.xyz/regiomx20x/tp.php?c=7&p=3&k=srregio&f=.m3u8
@@ -262,10 +256,7 @@ http://roedor.xyz/regiomx20x/tp.php?c=116&p=3&k=srregio&f=.m3u8
 http://roedor.xyz/regiomx20x/tp.php?c=117&p=3&k=srregio&f=.m3u8  
 
 #EXTINF:-1, DISNEY JR
-http://roedor.xyz/regiomx20x/tp.php?c=118&p=3&k=srregio&f=.m3u8 
-
-#EXTINF:-1, NICKTOONS SD 
-http://roedor.xyz/regiomx20x/tp.php?c=1708&p=3&k=srregio&f=.m3u8  
+http://roedor.xyz/regiomx20x/tp.php?c=118&p=3&k=srregio&f=.m3u8  
 
 #EXTINF:-1, BABY FIRST
 http://roedor.xyz/regiomx20x/tp.php?c=1984&p=3&k=srregio&f=.m3u8  
@@ -281,15 +272,6 @@ http://roedor.xyz/regiomx20x/tp.php?c=2591&p=3&k=srregio&f=.m3u8
 
 #EXTINF:-1,CARTOON NETWORK
 https://speedmindec.tecltda.club/speedmindec005005/25_.m3u8
-
-#EXTINF:-1,DISCOVERY KIDS
-https://speedmindec.tecltda.club/speedmindec005005/24_.m3u8
-
-#EXTINF:-1,DISNEY JR
-https://speedmindec.tecltda.club/speedmindec005005/57_.m3u8
-
-#EXTINF:-1,NICK
-https://speedmindec.tecltda.club/speedmindec005005/56_.m3u8
 
 #EXTINF:-1,NICK 2
 https://speedmindec.tecltda.club/speedmindec005005/55_.m3u8
