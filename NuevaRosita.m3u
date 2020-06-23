@@ -1,8 +1,5 @@
 ##EXTM3U
 
-#EXTINF:-1,24/7 DRAGON BALL
-https://speedmindec.tecltda.club/speedmindec005005/23_.m3u8
-
 EXTINF:-1, MTV LIVE
 http://roedor.xyz/regiomx20x/tp.php?c=211&p=3&k=srregio&f=.m3u8  
 
@@ -273,9 +270,6 @@ http://roedor.xyz/regiomx20x/tp.php?c=2591&p=3&k=srregio&f=.m3u8
 #EXTINF:-1,CARTOON NETWORK
 https://speedmindec.tecltda.club/speedmindec005005/25_.m3u8
 
-#EXTINF:-1,NICK 2
-https://speedmindec.tecltda.club/speedmindec005005/55_.m3u8
-
 #EXTINF:-1,NICK TOONS
 https://speedmindec.tecltda.club/speedmindec005005/18_.m3u8
 
@@ -347,12 +341,6 @@ http://roedor.xyz/regiomx20x/tp.php?c=184&p=3&k=srregio&f=.m3u8
 
 #EXTINF:-1, CNN
 http://roedor.xyz/regiomx20x/tp.php?c=185&p=3&k=srregio&f=.m3u8  
-
-#EXTINF:-1, CNN SD
-http://roedor.xyz/regiomx20x/tp.php?c=186&p=3&k=srregio&f=.m3u8  
-
-#EXTINF:-1, CNN Ñ SD
-http://roedor.xyz/regiomx20x/tp.php?c=187&p=3&k=srregio&f=.m3u8
 
 #EXTINF:-1, WOBI 
 http://roedor.xyz/regiomx20x/tp.php?c=102&p=3&k=srregio&f=.m3u8 
